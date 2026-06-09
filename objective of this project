@@ -1,0 +1,14 @@
+The objective of this project is to develop a Super Market Billing System using Python. The system allows users to enter multiple items, calculates the bill amount, 
+applies discounts based on purchase value, and generates a final bill.
+
+
+1. Take customer details.
+2. Initialise subtotal and discount variables.
+3. Use a loop to enter multiple items.
+4. Calculate item amount.
+5. Apply any discount using conditional statements.
+6. Display item details.
+7. Add amount and discount to totals.
+8. Repeat until user enters 'n'.
+9. Calculate final payable amount.
+10. Display final bill.
